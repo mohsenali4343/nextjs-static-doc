@@ -17,7 +17,7 @@ export default function HeroSection() {
           </h1>
           
           <p className="text-xl md:text-2xl max-w-3xl mx-auto text-gray-300 leading-relaxed">
-            Empower DevOps with root-level control, while Business Owners retain full data privacy. test
+            Empower DevOps with root-level control, while Business Owners retain full data privacy.
           </p>
 
           <div className="flex flex-col sm:flex-row gap-4 justify-center items-center mt-12">
